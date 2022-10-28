@@ -18,8 +18,9 @@ html {
 }
 
 p {
-	margin: 2em;
-	color:#C0C0C0;
+	margin: 5em;
+	padding-left: 3em;
+	color:#202020;
 }
 input[type="submit"]{
 	color: #fff;
@@ -62,6 +63,6 @@ a:active {
 
 h1 {
     color: #000050;
-    font-size: 3em;
+    font-size: 20px;
     text-decoration: underline;
 }
