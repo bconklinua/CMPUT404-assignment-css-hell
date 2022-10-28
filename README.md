@@ -21,4 +21,14 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 
 Code is licensed under the Apache 2.0 license.
 
+Donwloaded the mass of images for the jungle book, and had to rename them
+because they had %7 in their names.
+I changed the color to an aesthetically pleasing mustard brown, extra dry.
+I modified the link colors to be consistent with the background.
+Added some padding, and adjusted the header colors and sizing.
+
+document  #1:   junglebook.html
+document  #2:   littlewomen.html
+document  #3:   walden.html
+
 
